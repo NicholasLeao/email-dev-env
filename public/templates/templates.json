@@ -1,0 +1,30 @@
+[
+  {
+    "id": "welcome-email",
+    "name": "Welcome Email",
+    "file": "welcome-email.hbs",
+    "description": "A comprehensive welcome email template with stats and features"
+  },
+  {
+    "id": "newsletter",
+    "name": "Newsletter",
+    "file": "newsletter.hbs",
+    "description": "Monthly newsletter template with articles and updates"
+  },
+  {
+    "id": "automated-report",
+    "name": "Automated Report",
+    "file": "automated-report.hbs",
+    "description": "Automated report template with data and insights",
+    "default": false,
+    "defaultContent": "automated-report-sample.json"
+  },
+  {
+    "id": "automated-report-v2",
+    "name": "Automated Report V2",
+    "file": "template-v2.hbs",
+    "description": "Automated report template with data and insights",
+    "default": true,
+    "defaultContent": "automated-report-sample.json"
+  }
+]

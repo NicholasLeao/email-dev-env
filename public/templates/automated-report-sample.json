@@ -1,0 +1,56 @@
+{
+  "summaryScope": "Springfield-Nuclear",
+  "reportFrequency": "Weekly", 
+  "reportName": "Protex Report",
+  "companyLogo": "https://via.placeholder.com/64x64/4F46E5/FFFFFF?text=Logo",
+  "currentPeriod": "last 7 days",
+  "previousPeriod": "previous 7 days",
+  
+  "primaryBreakdown": {
+    "primaryMessage": "Great Job Keep It Up",
+    "primaryMessageColor": "#10B981",
+    "currentCount": "0",
+    "trend": "↓ 100%",
+    "trendColor": "#10B981",
+    "name": "Risk Types",
+    "list": [
+      {
+        "indexNumber": 1,
+        "entityName": "All Risk Types",
+        "count": 0,
+        "trend": "↓ 100%",
+        "trendColor": "#10B981",
+        "watchLink": "https://app.protex.ai/samples/risk-types"
+      }
+    ]
+  },
+  
+  "breakdowns": [
+    {
+      "name": "Shifts",
+      "list": [
+        {
+          "indexNumber": 1,
+          "entityName": "All Shifts",
+          "count": 0,
+          "trend": "↓ 100%",
+          "trendColor": "#10B981",
+          "watchLink": "https://app.protex.ai/samples/shifts"
+        }
+      ]
+    },
+    {
+      "name": "Cameras",
+      "list": [
+        {
+          "indexNumber": 1,
+          "entityName": "All Cameras",
+          "count": 0,
+          "trend": "↓ 100%",
+          "trendColor": "#10B981",
+          "watchLink": "https://app.protex.ai/samples/cameras"
+        }
+      ]
+    }
+  ]
+}
